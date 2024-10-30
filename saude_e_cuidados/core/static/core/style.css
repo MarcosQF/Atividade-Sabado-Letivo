@@ -1,0 +1,17 @@
+#resultado {
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.baixo-peso {
+    color: blue;
+}
+.peso-normal {
+    color: green;
+}
+.sobrepeso {
+    color: orange;
+}
+.obesidade {
+    color: red;
+}
